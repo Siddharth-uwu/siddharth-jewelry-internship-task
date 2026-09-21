@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Working files
+*.tmp
+~$*
+
+# Personal setup notes - not part of the submission
+GITHUB-SETUP.md
