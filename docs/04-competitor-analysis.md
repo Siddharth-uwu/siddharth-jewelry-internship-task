@@ -51,7 +51,7 @@ expansion into tier-2 and tier-3 cities via offline kiosks.
 - **The pillar system itself.** Six named, repeatable formats means they never face a blank
   calendar, and the audience learns the rhythm. This is the single most copyable thing here, and
   the calendar in `02` is built on the same principle.
-- **Gifting owned as a category, not a season.** Most brands do gifting in October. GIVA does it
+- **Gifting owned as a category, not a season.** Most brands do gifting only in festive season. GIVA does it
   in February and June too, so they arrive at Diwali with an audience already trained.
 - **Original audio.** Business accounts have restricted access to trending commercial tracks.
   Building original audio turns a constraint into a distribution asset when it gets picked up.

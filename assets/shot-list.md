@@ -12,7 +12,7 @@ plan, and "can this actually be executed?" is the first question a founder will 
 Fifteen posts is not fifteen shoots. Batching is the only way a solo operator sustains daily
 posting.
 
-### Session A — Product & trust · ~4 hours · by Fri 2 Oct
+### Session A — Product & trust · ~4 hours · 3 days before Day 1
 **Covers Posts 02, 03, 04, 05, 09, 13**
 
 | Shot | For | Setup |
@@ -28,7 +28,7 @@ posting.
 **The one rule for this session:** shoot everything on the same surface in the same light. Grid
 consistency is most of what makes a new account look credible.
 
-### Session B — Lifestyle & festive · ~3 hours · by Sat 3 Oct
+### Session B — Lifestyle & festive · ~3 hours · 2 days before Day 1
 **Covers Posts 06, 07, 14** *(needs one other person)*
 
 | Shot | For | Setup |
@@ -40,7 +40,7 @@ consistency is most of what makes a new account look credible.
 
 **Golden hour is 5:30–6:30 PM.** Schedule Session B around it rather than fighting indoor light.
 
-### Session C — Workshop & process · ~2 hours · by Sun 4 Oct
+### Session C — Workshop & process · ~2 hours · 1 day before Day 1
 **Covers Posts 01, 08, 11**
 
 | Shot | For | Setup |
@@ -59,9 +59,9 @@ Some shots cannot be batched because they do not exist yet.
 
 | Shot | For | When | Note |
 |---|---|---|---|
-| Real customer messages | 08 | 6–12 Oct | **Ask permission. Blur names.** |
-| Customer garba clip | 12 | 11–16 Oct | From micro-creator seeding if organic hasn't landed |
-| Two-week stats | 15 | 18 Oct | Pull from Insights + order data |
+| Real customer messages | 08 | Days 2–8 | **Ask permission. Blur names.** |
+| Customer garba clip | 12 | Days 7–12 | From micro-creator seeding if organic hasn't landed |
+| Two-week stats | 15 | Day 14 | Pull from Insights + order data |
 
 ---
 
@@ -112,7 +112,7 @@ instead of fifteen experiments.
 
 ---
 
-## Grid check before 5 October
+## Grid check before Day 1
 
 Open the profile preview and look at the first nine posts as a block, not individually. Check:
 

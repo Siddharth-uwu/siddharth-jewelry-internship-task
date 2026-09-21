@@ -74,7 +74,7 @@ first line is not an introduction — it is the entire caption, and the rest is 
 **Why it's built this way**
 
 - **The hook is a problem, not a greeting.** "Happy Navratri!" is what every brand posts on
-  11 October. Nine outfits in nine days is the thing she is genuinely stressed about, and the
+  Navratri Day 1. Nine outfits in nine days is the thing she is genuinely stressed about, and the
   product happens to solve it.
 - *"and we're already late"* — the small self-deprecating detail is what makes a GRWM read as a
   person rather than an ad. Without it the caption is a brochure.

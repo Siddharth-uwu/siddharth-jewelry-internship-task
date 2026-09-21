@@ -14,7 +14,7 @@ holds it together.
 |---|---|
 | **[00 — Brief & Assumptions](docs/00-brief-and-assumptions.md)** | What the brief specified, what it didn't, and the assumptions I committed to |
 | **[01 — Buyer Psychology](docs/01-buyer-psychology.md)** | The reasoning every other document rests on |
-| **[02 — Content Calendar](docs/02-content-calendar.md)** | The 15 posts, dated, timed, with rationale each |
+| **[02 — Content Calendar](docs/02-content-calendar.md)** | The 15 posts, day-numbered and timed, with rationale for each |
 | **[03 — Sample Captions](docs/03-sample-captions.md)** | 3 full captions + hashtag strategy + templates for the rest |
 | **[04 — Competitor Analysis](docs/04-competitor-analysis.md)** | GIVA, Palmonas, CaratLane — and the gap they leave open |
 | **[05 — Posting Strategy](docs/05-posting-strategy.md)** | Cadence, timing, UGC engine, paid, measurement |
@@ -28,10 +28,10 @@ explains it.
 
 ## The three decisions this submission is built on
 
-### 1. The calendar ends nineteen days before Dhanteras — on purpose
+### 1. The calendar ends about three weeks before Dhanteras — on purpose
 
-The window is **5–18 October 2026.** Dhanteras, the single biggest jewellery-buying day in
-India, falls on **6 November 2026.**
+The fortnight is placed so that **Day 7 lands on the first night of Navratri**, and **Day 14
+falls roughly three weeks before Dhanteras** — the single biggest jewellery-buying day in India.
 
 A launch is worth least on day one and most about six weeks in, once the audience is warm, the
 retargeting pixel is seeded, and there is real customer content to reshare. So these two weeks
@@ -39,7 +39,7 @@ are not the campaign — they are the run-up that makes the campaign work. Launc
 Dhanteras with a cold account means paying peak-auction prices for traffic that has never heard
 of you.
 
-Full reasoning: [00 §"Why the launch window is 5–18 October"](docs/00-brief-and-assumptions.md).
+Full reasoning: [00 §"Where the fortnight sits in the year"](docs/00-brief-and-assumptions.md).
 
 ### 2. There are two buyers, and Week 1 and Week 2 are written to different ones
 
@@ -71,10 +71,10 @@ Full reasoning: [04 §"The gap we own"](docs/04-competitor-analysis.md).
 
 ## The calendar at a glance
 
-**Days 1–14 · mapped to 5–18 October 2026 · 15 posts**
+**Days 1–14 · 15 posts · Day 1 assumed to be a Monday**
 
-Every post carries both a day number and a real date. The day numbers make the structure
-portable to any fortnight; the dates are what make the festive timing arguments checkable.
+Numbered by day rather than dated, so it drops onto any fortnight. Placement in the year is
+what matters: Day 7 on the first night of Navratri, Day 14 about three weeks out from Dhanteras.
 
 | Pillar | Count | Share |
 |---|---|---|
@@ -117,7 +117,7 @@ out to be gold or bridal instead.
 1. Replace `{{BRAND}}` with the real brand name across all files
 2. Import [`data/content-calendar.csv`](data/content-calendar.csv) into Google Sheets, Notion or
    Later as the working tracker
-3. Confirm the 2026 festival dates against the final panchang — lunisolar dates shift by region
+3. Pick your Day 1 against the panchang for your launch year — see the placement note in [02](docs/02-content-calendar.md)
 4. Work through the pre-launch checklist in [02](docs/02-content-calendar.md) before Day 1
 5. Batch-shoot in the three sessions in the [shot list](assets/shot-list.md)
 

@@ -96,10 +96,10 @@ Three operating rules follow:
    of garba". She is shopping for a *role*; the product is a prop in it.
 2. **Be early.** Buyer B shops 2–5 days out, Buyer A plans 10–14 days out. Navratri content
    landing on Day 1 of Navratri has already missed Buyer A. Post 05 — the nine-colour pairing
-   guide — runs on **9 Oct, two days before Ghatasthapana.** Deliberately.
+   guide — runs on **Day 5, two days before Navratri Day 1.** Deliberately.
 3. **Dhanteras is a deadline, not a theme.** Buying metal that day is auspicious. That is real,
    culturally-mandated urgency that needs no manufacturing. Do not burn fake "24 HOURS ONLY"
-   urgency in October and have nothing credible left when the real deadline arrives.
+   urgency early and have nothing credible left when the real deadline arrives.
 
 ---
 

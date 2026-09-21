@@ -86,7 +86,7 @@ this pipeline existing.
 
 ### Before launch — seed it
 
-**Gift 10–15 micro-creators (5k–50k followers) in the week before 5 October.** Micro-creators
+**Gift 10–15 micro-creators (5k–50k followers) in the week before Day 1.** Micro-creators
 consistently produce higher engagement and read as more trustworthy than large accounts, and at
 this size the cost is product, not fees.
 
@@ -154,22 +154,22 @@ spent correctly, matters more than a large one spent early.
 
 | Phase | Dates | Budget/day | Objective | Behind |
 |---|---|---|---|---|
-| Seed | 5–11 Oct | ₹300–500 | Reach / profile visits | Posts 02, 03 |
-| Build | 12–18 Oct | ₹700–1,000 | Traffic + engagement | Posts 10, 13 |
-| Harvest | 19 Oct – 8 Nov | scale up | Conversions, retargeting | Winning creative |
+| Seed | Days 1–7 | ₹300–500 | Reach / profile visits | Posts 02, 03 |
+| Build | Days 8–14 | ₹700–1,000 | Traffic + engagement | Posts 10, 13 |
+| Harvest | Day 15 → Diwali | scale up | Conversions, retargeting | Winning creative |
 
 **Principles**
 
 1. **Boost what already worked.** Never put money behind an untested creative. Let organic pick
-   the winner in the first 48 hours, then amplify it. The calendar's job in October is partly to
+   the winner in the first 48 hours, then amplify it. The calendar's job in these two weeks is partly to
    *find* the winning format cheaply.
-2. **The pixel is the actual deliverable of October.** Every visitor from 5 October is
-   retargetable on 6 November at a fraction of cold-traffic cost. This alone justifies the
-   launch date in `00`.
+2. **The pixel is the actual deliverable of this fortnight.** Every visitor from Day 1 is
+   retargetable on Dhanteras at a fraction of cold-traffic cost. This alone justifies placing
+   the launch where `00` places it.
 3. **Post 10 gets the largest single allocation.** Highest purchase intent, and it targets men
    — a cheaper, far less contested audience in this category.
 4. **Stop competing on cold traffic during Dhanteras week.** The auction is at its annual peak.
-   That week belongs to the warm pool built in October.
+   That week belongs to the warm pool built across Days 1–14.
 
 ---
 
@@ -212,7 +212,7 @@ because the demand is already proven.
 | Risk | Likelihood | Response |
 |---|---|---|
 | No orders by Post 08 | Medium | Reframe as "first 20 pieces packed". Never invent a customer. |
-| No UGC by Post 12 | High | Micro-creator seeding exists precisely for this. Do it before 5 Oct. |
+| No UGC by Post 12 | High | Micro-creator seeding exists precisely for this. Do it before Day 1. |
 | A Reel flops badly | Certain | Expected. Roughly 1 in 5 carries the account. Don't delete it, don't over-correct. |
 | Running out of content mid-week | High | The three-posts-ahead buffer. Enforce it. |
 | Music licensing blocks a trending audio | Medium | Business accounts have limited access. Build original audio — GIVA's workaround (`04`). |
@@ -221,7 +221,7 @@ because the demand is already proven.
 
 ---
 
-## 9. What success looks like on 18 October
+## 9. What success looks like on Day 14
 
 Follower count is the wrong finish line. On the evening of Post 15, the account should have:
 
@@ -230,7 +230,7 @@ Follower count is the wrong finish line. On the evening of Post 15, the account 
 - **Genuine social proof** — real customer photos, real reviews, a stocked `Reviews` Highlight
 - **A trust position established** — the "shows you the receipt" thesis from `04`, demonstrated
   three times rather than claimed
-- **A warm audience nineteen days out from the biggest jewellery-buying day of the year**
+- **A warm audience about three weeks out from the biggest jewellery-buying day of the year**
 
 That last line is the whole point. The fortnight is not the campaign. It is the loaded spring.
 

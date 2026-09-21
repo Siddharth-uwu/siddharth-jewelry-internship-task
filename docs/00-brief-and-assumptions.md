@@ -24,8 +24,8 @@ it here so it can be swapped.
 | **Category** | Demi-fine: 925 sterling silver + 18k gold-plated | The only tier where an Instagram-first launch can actually close sales in-feed. |
 | **Price band** | ₹1,000 – ₹5,000, hero SKU at ₹1,899 | Below the ~₹3k "no-spouse-approval-needed" threshold. Impulse- and gift-viable. |
 | **Audience** | Women 22–35, Indian metros + tier-1, salaried/early-career | Self-purchase and gifting in roughly equal measure. |
-| **Secondary audience** | Men 25–35 buying gifts | Small in follower count, disproportionate in Oct–Nov revenue. |
-| **Launch window** | Mon 5 Oct – Sun 18 Oct 2026 | See below. |
+| **Secondary audience** | Men 25–35 buying gifts | Small in follower count, disproportionate in festive-season revenue. |
+| **Launch window** | Days 1–14, Day 1 a Monday | Placed relative to the festive corridor — see below. |
 | **Channel** | Instagram only (feed + Reels + Stories) | Per brief. Strategy note flags where WhatsApp/email should pick up. |
 | **Team** | 1 person, phone camera, no studio budget | Every post in the calendar is shootable under that constraint. |
 
@@ -40,26 +40,26 @@ If the real brand is gold or bridal, three things change and the rest holds:
 
 The calendar structure, pillar ratio, posting cadence and UGC engine are tier-independent.
 
-## Why the launch window is 5–18 October 2026
+## Where the fortnight sits in the year
 
 This is the single most load-bearing decision in the whole submission, so it gets its own note.
 
 The Indian jewellery year peaks in a ~5-week corridor:
 
-| Date (2026) | Occasion | Relevance |
+| Roughly when | Occasion | Relevance |
 |---|---|---|
-| Sun 11 Oct | Ghatasthapana — Sharad Navratri Day 1 | 9 nights of garba, dressing up, daily outfit posts |
-| Tue 20 Oct | Vijayadashami / Dussehra | Auspicious-purchase day |
-| Thu 29 Oct | Karwa Chauth | Gifting spike, husband-buys-for-wife |
-| Fri 6 Nov | **Dhanteras** | The single biggest jewellery-buying day in India |
-| Sun 8 Nov | Diwali | Gifting peak |
+| **Day 7** of this calendar | Ghatasthapana — Sharad Navratri Day 1 | 9 nights of garba, dressing up, daily outfit posts |
+| ~1 week after Day 14 | Vijayadashami / Dussehra | Auspicious-purchase day |
+| ~2 weeks after Day 14 | Karwa Chauth | Gifting spike, husband-buys-for-wife |
+| **~3 weeks after Day 14** | **Dhanteras** | The single biggest jewellery-buying day in India |
+| ~3 weeks after Day 14 | Diwali | Gifting peak |
 
 A launch is worth the least on day one and the most about six weeks in, once the audience is
 warm, the retargeting pool is seeded, and there is real UGC to reshare. So the calendar
-**deliberately ends on 18 October — nineteen days before Dhanteras.**
+**deliberately ends about three weeks before Dhanteras.**
 
 The two weeks in this document are not the payoff. They are the run-up that makes the payoff
-possible. By 18 Oct the brand should have a warm audience, a seeded pixel, a stack of customer
+possible. By Day 14 the brand should have a warm audience, a seeded pixel, a stack of customer
 photos, and a known-winning creative format — and then it spends into Dhanteras.
 
 Launching *on* Dhanteras with a cold account would mean paying full price for traffic that has
