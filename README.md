@@ -71,7 +71,10 @@ Full reasoning: [04 §"The gap we own"](docs/04-competitor-analysis.md).
 
 ## The calendar at a glance
 
-**5–18 October 2026 · 14 days · 15 posts**
+**Days 1–14 · mapped to 5–18 October 2026 · 15 posts**
+
+Every post carries both a day number and a real date. The day numbers make the structure
+portable to any fortnight; the dates are what make the festive timing arguments checkable.
 
 | Pillar | Count | Share |
 |---|---|---|

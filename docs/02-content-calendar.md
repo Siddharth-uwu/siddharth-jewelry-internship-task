@@ -4,6 +4,13 @@
 **Account status:** brand new, launching from zero
 **Machine-readable version:** [`../data/content-calendar.csv`](../data/content-calendar.csv) — import straight into Sheets/Notion/Later
 
+> **On the dual labelling.** Every post carries both a **Day number** and a **real date.** The
+> day numbers make the structure portable — shift the whole thing to any fortnight and the
+> sequence still works. The dates are kept because several decisions cannot be justified
+> without them: the calendar ends 19 days before Dhanteras, the Navratri colour guide lands two
+> days before Ghatasthapana, and the two Saturday posts sit on the weekend before Dussehra week.
+> Strip the dates and the reasoning goes with them.
+
 ---
 
 ## Before Day 1 — the pre-launch checklist
@@ -32,12 +39,12 @@ All times IST. Timing rationale is in `05`.
 
 ---
 
-## Week 1 — Introduce and earn trust (5–11 Oct)
+## Week 1 (Days 1–7) — Introduce and earn trust · 5–11 Oct
 
 > **Goal:** a stranger should be able to answer "what is this brand, and can I trust it?" by Sunday.
 > No hard selling this week. You have not earned the ask yet.
 
-### Post 01 · Mon 5 Oct · 12:30 PM · Carousel (6 slides) · `BRAND` · TOFU
+### Post 01 · **Day 1** · Mon 5 Oct · 12:30 PM · Carousel (6 slides) · `BRAND` · TOFU
 **Working title:** "We started because ₹1,899 shouldn't feel like a compromise."
 
 The launch post. **Not** a product shot — a point of view. Slide 1 is the line above on plain
@@ -53,7 +60,7 @@ which is the only thing you actually need on day one.
 
 ---
 
-### Post 02 · Tue 6 Oct · 8:00 PM · Reel (12s) · `PROD` · TOFU
+### Post 02 · **Day 2** · Tue 6 Oct · 8:00 PM · Reel (12s) · `PROD` · TOFU
 **Working title:** The hero pendant, one continuous macro shot.
 
 No cuts. Slow rotation under a single warm lamp, catching the light. Trending audio, low.
@@ -67,7 +74,7 @@ gives her permission to buy without an occasion.
 
 ---
 
-### Post 03 · Wed 7 Oct · 7:30 PM · Reel (20s) · `TRUST` · MOFU
+### Post 03 · **Day 3** · Wed 7 Oct · 7:30 PM · Reel (20s) · `TRUST` · MOFU
 **Working title:** "How to check if your silver is actually silver."
 
 Macro on the `925` hallmark. Then the magnet test — real silver is not magnetic. Then the cloth
@@ -83,7 +90,7 @@ the strongest trust signal available, and it is the most saveable/shareable post
 
 ---
 
-### Post 04 · Thu 8 Oct · 12:00 PM · Carousel (5 slides) · `BTS` · MOFU
+### Post 04 · **Day 4** · Thu 8 Oct · 12:00 PM · Carousel (5 slides) · `BTS` · MOFU
 **Working title:** "Here's exactly where your ₹1,899 goes."
 
 An honest breakdown: silver cost, plating, labour, packaging, shipping, platform fees, margin.
@@ -98,7 +105,7 @@ efficiency. This is also the most screenshot-and-send-to-a-friend post in the se
 
 ---
 
-### Post 05 · Fri 9 Oct · 1:00 PM · Static or 3-slide carousel · `FEST` · TOFU
+### Post 05 · **Day 5** · Fri 9 Oct · 1:00 PM · Static or 3-slide carousel · `FEST` · TOFU
 **Working title:** "Nine nights, nine colours — what to wear with each."
 
 The Navratri colour calendar with a jewellery pairing per day. Genuinely useful as a
@@ -113,7 +120,7 @@ would be two days too late for the person it is written for.
 
 ---
 
-### Post 06 · Sat 10 Oct · 11:00 AM · Reel (18s) · `PROD` · MOFU
+### Post 06 · **Day 6** · Sat 10 Oct · 11:00 AM · Reel (18s) · `PROD` · MOFU
 **Working title:** "One pendant, three places."
 
 Three quick outfit changes on the same person, same pendant: office kurta → dinner dress →
@@ -124,7 +131,7 @@ I even wear this?" — which is the real objection hiding behind "it's expensive
 
 ---
 
-### Post 07 · Sun 11 Oct · 7:00 PM · Reel (15s) · `FEST` · TOFU
+### Post 07 · **Day 7** · Sun 11 Oct · 7:00 PM · Reel (15s) · `FEST` · TOFU
 **Working title:** Navratri Day 1 — getting ready.
 
 Get-ready-with-me, ending on the jewellery going on last. Trending garba audio. Posted early
@@ -138,12 +145,12 @@ GRWM is the format most likely to be served to non-followers.
 
 ---
 
-## Week 2 — Convert, and build the gifting case (12–18 Oct)
+## Week 2 (Days 8–14) — Convert, and build the gifting case · 12–18 Oct
 
 > **Goal:** first sales, first UGC, and a warm retargeting pool aimed at Dhanteras.
 > The audience now knows you. This is when you are allowed to ask.
 
-### Post 08 · Mon 12 Oct · 12:30 PM · Carousel (5 slides) · `UGC` · BOFU
+### Post 08 · **Day 8** · Mon 12 Oct · 12:30 PM · Carousel (5 slides) · `UGC` · BOFU
 **Working title:** "Our first orders went out today."
 
 Real photographs of the first packed orders, first customer messages (screenshotted with
@@ -158,7 +165,7 @@ watching a brand with no customers; this is the moment it becomes real.
 
 ---
 
-### Post 09 · Tue 13 Oct · 8:00 PM · Reel (15s) · `PROD` · BOFU
+### Post 09 · **Day 9** · Tue 13 Oct · 8:00 PM · Reel (15s) · `PROD` · BOFU
 **Working title:** The unboxing, ASMR.
 
 No voice. Sleeve off, lid lift, tissue, the handwritten note, the piece. Close mic on the paper.
@@ -171,7 +178,7 @@ efficiently than any sentence could.
 
 ---
 
-### Post 10 · Wed 14 Oct · 7:30 PM · Carousel (6 slides) · `TRUST` · BOFU
+### Post 10 · **Day 10** · Wed 14 Oct · 7:30 PM · Carousel (6 slides) · `TRUST` · BOFU
 **Working title:** "How to gift jewellery without knowing her size."
 
 Buyer B's #1 blocker, answered directly. Slide 1: pendants, bracelets and studs need no size.
@@ -183,7 +190,7 @@ written for men, which almost nothing else on a jewellery account is.
 
 ---
 
-### Post 11 · Thu 15 Oct · 12:00 PM · Reel (20s) · `BTS` · MOFU
+### Post 11 · **Day 11** · Thu 15 Oct · 12:00 PM · Reel (20s) · `BTS` · MOFU
 **Working title:** "Why yours won't turn your skin green."
 
 The anti-tarnish coating actually being applied. Then the polishing bench. Then the QC check.
@@ -194,7 +201,7 @@ claimed (`01 §3`). Also the post that earns the right to charge more than a ₹
 
 ---
 
-### Post 12 · Fri 16 Oct · 8:30 PM · Reel (12s) · `UGC` · TOFU
+### Post 12 · **Day 12** · Fri 16 Oct · 8:30 PM · Reel (12s) · `UGC` · TOFU
 **Working title:** First customer reshare.
 
 An actual customer's garba clip wearing the piece, reshared with credit and a thank-you overlay.
@@ -209,7 +216,7 @@ manually fed.
 
 ---
 
-### Post 13 · Sat 17 Oct · 11:00 AM · Carousel (7 slides) · `FEST` · BOFU
+### Post 13 · **Day 13** · Sat 17 Oct · 11:00 AM · Carousel (7 slides) · `FEST` · BOFU
 **Working title:** "The under-₹2,500 festive gift edit."
 
 Six pieces, each on its own slide, each with price, who it suits, and the delivery-by date.
@@ -220,7 +227,7 @@ Pin it — it stays relevant through 8 November.
 
 ---
 
-### Post 14 · Sat 17 Oct · 8:00 PM · Reel (15s) · `UGC` · MOFU
+### Post 14 · **Day 13** · Sat 17 Oct · 8:00 PM · Reel (15s) · `UGC` · MOFU
 **Working title:** "POV: he actually got the gift right."
 
 Relationship-led POV skit on trending audio. Her reaction to the box, not the jewellery. He is
@@ -235,7 +242,7 @@ gifting-intent window inside this calendar. One conversion post at 11 AM, one re
 
 ---
 
-### Post 15 · Sun 18 Oct · 6:00 PM · Carousel (5 slides) · `UGC` / `BRAND` · MOFU
+### Post 15 · **Day 14** · Sun 18 Oct · 6:00 PM · Carousel (5 slides) · `UGC` / `BRAND` · MOFU
 **Working title:** "Two weeks old. Thank you."
 
 The numbers, stated plainly — orders shipped, cities reached, reviews received, the one thing
